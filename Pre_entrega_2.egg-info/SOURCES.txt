@@ -1,0 +1,10 @@
+setup.py
+Pre_entrega_2.egg-info/PKG-INFO
+Pre_entrega_2.egg-info/SOURCES.txt
+Pre_entrega_2.egg-info/dependency_links.txt
+Pre_entrega_2.egg-info/top_level.txt
+Preentregas/__init__.py
+Preentregas/Preentrega1/RegistroUsuarios.py
+Preentregas/Preentrega1/__init__.py
+Preentregas/Preentrega2/Cliente.py
+Preentregas/Preentrega2/__init__.py
